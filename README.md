@@ -1,2 +1,2 @@
-# docker-demo-spring-boot
+# Game of Life 
 
