@@ -1,4 +1,4 @@
-package io.daocloud.demo;
+package com.coderetreat;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

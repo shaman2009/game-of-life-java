@@ -1,4 +1,4 @@
-package io.daocloud.demo;
+package com.coderetreat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
